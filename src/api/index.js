@@ -1,0 +1,1 @@
+export const BASE_URI = 'https://final-bmj.herokuapp.com/api/';
